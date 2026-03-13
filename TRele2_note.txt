@@ -1,0 +1,1 @@
+This tests the file added from the release 2.
